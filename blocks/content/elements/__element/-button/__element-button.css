@@ -1,0 +1,12 @@
+.elements__element-button {
+  color: black;
+  position: absolute;
+  bottom: 30px;
+  z-index: 2;
+  right: 18px;
+}
+.elements__element-button:hover {
+  opacity: 0.5;
+  transition: opacity 0.5s linear;
+  cursor: pointer;
+}
