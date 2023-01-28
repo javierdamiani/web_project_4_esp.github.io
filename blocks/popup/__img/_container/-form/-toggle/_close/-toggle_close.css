@@ -1,0 +1,7 @@
+.popup__img_container-form-toggle_close {
+  position: absolute;
+  z-index: 5;
+  right: -60px;
+  /* right: -1500%; */
+  /* top: -40px; */
+}
